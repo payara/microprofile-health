@@ -19,7 +19,7 @@
     <groupId>org.eclipse.microprofile.health</groupId>
     <artifactId>microprofile-health-parent</artifactId>
     <name>MicroProfile Health</name>
-    <version>1.0</version>
+    <version>1.0.payara-p1</version>
     <description>Eclipse MicroProfile HealthCheck Feature - Parent POM</description>
     <packaging>pom</packaging>
 

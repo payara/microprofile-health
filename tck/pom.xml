@@ -19,7 +19,7 @@
     <parent>
         <groupId>org.eclipse.microprofile.health</groupId>
         <artifactId>microprofile-health-parent</artifactId>
-        <version>1.0</version>
+        <version>1.0.payara-p1</version>
         <relativePath>../</relativePath>
     </parent>
 
@@ -52,7 +52,7 @@
         <dependency>
             <groupId>org.eclipse.microprofile.health</groupId>
             <artifactId>microprofile-health-api</artifactId>
-            <version>1.0</version>
+            <version>1.0.payara-p1</version>
             <scope>provided</scope>
         </dependency>
 
